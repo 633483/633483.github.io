@@ -1,0 +1,132 @@
+body
+{
+	background-image: url("../img/background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 1366px 1536px;
+}
+
+.midden
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+	margin-top: -8px;
+}
+
+.companyname
+{
+    display: block;
+	text-align: center;
+	position: relative;
+    top: -290px;
+	font-size: 100px;
+	color: #ffffff;
+	text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
+}
+
+.navigation
+{
+    display: block;
+	text-align: center;
+	position: relative;
+    top: -70px;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.weareentertainment
+{
+    display: block;
+	text-align: center;
+	position: relative;
+    top: -290px;
+	font-size: 100px;
+	color: #ffffff;
+	line-height: 10px;
+}
+
+
+.graybox
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: -323px;
+	width: 958px;
+	height: 50px;
+	background: #707070;
+	outline: 1px solid #ffffff;
+}
+
+.bluebox1
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: -93px;
+	width: 960px;
+	height: 256px;
+	background: #2699FB;
+}
+
+.product3
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: -320px;
+}
+
+.bluebox2
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	width: 960px;
+	height: 256px;
+	background: #3060ad
+}
+
+.pictures
+{
+    display: block;
+	text-align: center;
+	position: relative;
+    top: -290px;
+	font-size: 100px;
+	color: #ffffff;
+	line-height: 10px;
+}
+
+.product8
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: -320px;
+}
+
+.blackbox
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: +1px;
+	width: 960px;
+	height: 70px;
+	background: #000000
+}
+
+.footer
+{
+    display: block;
+	text-align: center;
+	position: relative;
+    top: -48px;
+	font-size: 40px;
+}
