@@ -1,2 +1,2 @@
 # 633483.github.io
-Voor schoolprojecten.
+Voor schoolproject.
