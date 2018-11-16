@@ -1,3 +1,4 @@
+/* De CSS file voor contact.html */
 body
 {
 	background-image: url("../img/background.jpeg");
@@ -134,7 +135,6 @@ a:active {
 }
 
 .bluebox
-/* De CSS file voor contact.html */
 {
 	display: block;
 	margin-left: auto;
