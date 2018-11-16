@@ -8,6 +8,12 @@ body
     left: 13%;
 }
 
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+
 p.berlinsans
 {
     font-family: Berlin Sans FB;
